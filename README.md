@@ -1,5 +1,14 @@
 # SkillForge AI 🛠️
 
+![SkillForge AI workflow](assets/skillforge-banner.svg)
+
+**From document to agent skill in four steps:** import → extract → draft → review.
+
+[See the runnable demonstration](examples/DEMO.md) · [Report a bug](https://github.com/djama77/skillforge-ai/issues/new/choose) · [Contribute](CONTRIBUTING.md)
+
+> The banner is an explanatory illustration, not a screenshot of the running app. An earlier promotional mockup showing star counts, 95% scores and guaranteed agent compatibility is not representative of measured project results.
+
+
 **Turn PDFs and technical documentation into portable, source-grounded AI agent skills.**
 
 [![Tests](https://github.com/djama77/skillforge-ai/actions/workflows/tests.yml/badge.svg)](https://github.com/djama77/skillforge-ai/actions/workflows/tests.yml)
